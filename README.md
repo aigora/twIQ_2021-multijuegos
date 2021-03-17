@@ -1,10 +1,12 @@
-# [Título del trabajo]
+# [Multijuegos]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+[Se trata de una coleccin de varios juegos.]ó
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+[Marta Liñan Morales usuario:martalinan
+Maika Del Sol Juvera  usuario: maikadelsol
+Esther Gonzalez Fernandez.]
 
 ## Objetivos del trabajo
 
