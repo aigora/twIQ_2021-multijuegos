@@ -1,12 +1,12 @@
 # [Multijuegos]
 
-[Se trata de una coleccin de varios juegos.]ó
+[Se trata de una coleccin de varios juegos.]
 
 ## Integrantes del equipo
 
 [Marta Liñan Morales usuario:martalinan
 Maika Del Sol Juvera  usuario: maikadelsol
-Esther Gonzalez Fernandez.]
+Esther Gonzalez Fernandez: estherglez02]
 
 ## Objetivos del trabajo
 
