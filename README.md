@@ -1,6 +1,6 @@
 # [Multijuegos]
 
-[Se trata de una coleccin de varios juegos.]
+[Se trata de una coleccin de varios juegos donde el jugador tiene que elegir en primer lugar si va a quere jugar solo o co una pareja y después se muestran varios juegos para que elija: tres en raya, el 21, piedra papel o tijera y adivinanzas.]
 
 ## Integrantes del equipo
 
@@ -10,4 +10,4 @@ Esther Gonzalez Fernandez: estherglez02]
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+[Desarrollar una serie de juegos que permitan entretenerte solo o acompañado.]
