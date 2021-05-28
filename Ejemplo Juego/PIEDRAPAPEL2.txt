@@ -1,0 +1,5 @@
+Hola Marta y Maika
+Habeis jugado 0 partidas a PIEDRA PAPEL O TIJERA
+Marta ha ganado 1 partidas
+Maika ha ganado 3 partidas
+Y habeis empadado 0 partidas

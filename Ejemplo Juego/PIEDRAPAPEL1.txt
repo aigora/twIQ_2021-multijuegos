@@ -1,0 +1,4 @@
+Hola Esther
+Has jugado 3 partidas a PIEDRA PAPEL Y TIJERA de un jugador
+Has ganado un total de 0 partidas
+
